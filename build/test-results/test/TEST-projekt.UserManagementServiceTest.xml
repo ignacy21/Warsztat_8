@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projekt.UserManagementServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-09T15:31:46" hostname="MacBook-Air-Ignacy.local" time="0.028">
+  <properties/>
+  <testcase name="shouldCreateMultipleUsersCorrectly()" classname="projekt.UserManagementServiceTest" time="0.006"/>
+  <testcase name="shouldFailWhenDuplicateUserIsCreated()" classname="projekt.UserManagementServiceTest" time="0.004"/>
+  <testcase name="shouldDeleteUserCorrectly()" classname="projekt.UserManagementServiceTest" time="0.002"/>
+  <testcase name="shouldThrowWhenDeletingNonExistingUser()" classname="projekt.UserManagementServiceTest" time="0.002"/>
+  <testcase name="shouldFindUsersWithName()" classname="projekt.UserManagementServiceTest" time="0.002"/>
+  <testcase name="shouldThrowWhenModifyingNonExistingUser()" classname="projekt.UserManagementServiceTest" time="0.002"/>
+  <testcase name="shouldCreateCorrectly()" classname="projekt.UserManagementServiceTest" time="0.002"/>
+  <testcase name="shouldModifyUserDataCorrectly()" classname="projekt.UserManagementServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
